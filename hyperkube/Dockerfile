@@ -1,5 +1,2 @@
 FROM quay.io/coreos/hyperkube:v1.6.6_coreos.0
-MAINTAINER Jason <piml.lui@gmail.com>
-
-
-
+INTAINER huangchuan <huangchuan@g7.com.cn>
